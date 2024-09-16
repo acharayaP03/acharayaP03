@@ -2,9 +2,6 @@
 
 Highly proficient Full Stack JavaScript Engineer with a focus on modern frontend frameworks such as Vue.js, Vuetify, React, and Next.js, as well as backend technologies like Node.js, .Net and Python. I excel in leading complex migrations, managing frontend teams, and delivering scalable, performant web applications. I am passionate about implementing best practices, optimizing UI/UX, and ensuring code quality across the development lifecycle.
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Trishten Ac](https://www.linkedin.com/in/trishten-ac-4b704282/))
 
 # 💻 Tech Stack:
 
