@@ -4,7 +4,7 @@ Highly proficient Full Stack JavaScript Engineer with a focus on modern frontend
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Trishten Ac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Trishten Ac](https://www.linkedin.com/in/trishten-ac-4b704282/))
 
 # 💻 Tech Stack:
 
